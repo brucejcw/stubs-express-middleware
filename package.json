@@ -1,0 +1,13 @@
+{
+  "name": "stubs-middleware",
+  "version": "0.0.5",
+  "description": "",
+  "main": "lib/middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express-http-proxy": "^1.6.2"
+  },
+  "license": "ISC"
+}
