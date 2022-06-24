@@ -1,11 +1,11 @@
-# stubs-middleware
+# stubs-express-middleware
 
-`npm i stubs-middleware`
+`npm i stubs-express-middleware`
 
 ```angular2html
     if (process.env.NODE_ENV === 'development') {
         // put it before bodyparser
-        require('stubs-middleware')(app, require('../stubs/config.json'))
+        require('stubs-express-middleware')(app, require('../stubs/config.json'))
     }
 ```
 
