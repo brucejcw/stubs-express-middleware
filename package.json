@@ -1,10 +1,14 @@
 {
   "name": "stubs-express-middleware",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "lib/middleware.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucejcw/stubs-express-middleware.git"
   },
   "dependencies": {
     "express-http-proxy": "^1.6.2"
